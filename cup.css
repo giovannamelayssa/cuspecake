@@ -8,5 +8,8 @@
         background-color: var(--cor-de-fundo);
     }
     
-
+    .container {
+        display: flex;
+        align-items: center;
+        }
     
